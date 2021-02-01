@@ -1,0 +1,10 @@
+newmtl _5215d89a-8405-46fa-b9a3-3f1d79a05664
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd PngItem_313579&PngItem_313579_alpha.png
+newmtl Box material_3cc16f6b-453f-402e-ae3b-dfa0b3d1f729
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Cone material_8177ca32-a4ec-46e5-802c-0ec0e5c6d424
+Kd 0.800 0.800 0.800
+d 1.000
