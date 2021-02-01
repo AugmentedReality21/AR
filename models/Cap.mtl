@@ -1,0 +1,7 @@
+newmtl Box material_3cc16f6b-453f-402e-ae3b-dfa0b3d1f729
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl _166a392a-a03b-4cc4-bac1-20dd02ce2f0a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd PngItem_313579&PngItem_313579_alpha.png
